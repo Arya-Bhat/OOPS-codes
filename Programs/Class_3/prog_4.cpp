@@ -37,7 +37,7 @@ public:
 };
 
 int main() {
-    Employee empParam(101, 45000, "Aditya", "ECE");
+    Employee empParam(101, 45000, "Arya", "ECE");
     Employee empInput;
 
     empInput.printDetails();
